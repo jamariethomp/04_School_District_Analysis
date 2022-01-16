@@ -26,7 +26,7 @@ The change in data affected several key elements of the analysis:
 - **Per the below tables, the overall summary of district data was minimally affected**
 
 *Performance of whole district prior to changes:*
-![district summary 1](https://user-images.githubusercontent.com/94264643/149648994-ae157395-b857-47f8-87d4-56ed8f623823.png)
+![district summary 1](https://user-images.githubusercontent.com/94264643/149649474-a310bfb4-c2f1-4edb-bd88-0028d8921106.png)
 
 *Performance of whole district after changes:*
 ![district summary 2](https://user-images.githubusercontent.com/94264643/149648124-506ce538-e219-44e6-a55b-ddc9a7028623.png)
