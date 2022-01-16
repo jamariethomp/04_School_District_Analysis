@@ -23,7 +23,7 @@ After an inital pass through the dataset, the school board identified potential 
 
 The change in data affected several key elements of the analysis:
 
-- **Per the below tables, the overall summary of district data was minimally affected**
+- **Per the below tables, the overall summary of district data was minimally affected:**
 
 *Performance of whole district prior to changes:*
 ![district summary 1](https://user-images.githubusercontent.com/94264643/149649474-a310bfb4-c2f1-4edb-bd88-0028d8921106.png)
